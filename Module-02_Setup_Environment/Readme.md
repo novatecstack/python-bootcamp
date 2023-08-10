@@ -10,22 +10,22 @@ To get started, we need below applications:
      - Linux
      - MacOS
    - Minimum system requirement for Python installation
-     - Operating System
+     - **Operating System**
        - Windows 8 (or above)
        - Linux RHEL 6/7, 64-bit | Ubuntu
        - Mac OS X 10.11 or higher, 64-bit
-     - Processor: x86 64-bit CPU (Intel/AMD)
-     - Memory: 4 GB RAM 
-     - Storage: 20 GB free disk space  
+     - **Processor**: x86 64-bit CPU (Intel/AMD)
+     - **Memory**: 4 GB RAM 
+     - **Storage**: 20 GB free disk space  
    
-### 1.1 [Install Python using `Python Installer`](https://www.python.org/)
+### [1.1 Install Python using `Python Installer`](https://www.python.org/)
     - Download and Install the latest version of Python as per your system's OS:
        - [Windows](https://www.python.org/downloads/windows/)
        - [Linux](https://www.python.org/downloads/source/)
        - [MacOS](https://www.python.org/downloads/macos/)
     - To verify the python installation, go to start menu >> Command prompt >> and run command `python --version` and see if returns current installed version of python.
 
-### 1.2 [Install Python using `Anaconda distribution`](https://www.anaconda.com/)
+### [1.2 Install Python using `Anaconda distribution`](https://www.anaconda.com/)
     - The Anaconda distribution comes with Python interpreter, Jupyter notebook and many Python libraries.
      
 ## 2. Install IDE (Integrated Development Environment)
