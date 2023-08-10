@@ -19,11 +19,11 @@ To get started, we need below applications:
      - **Storage**: 20 GB free disk space  
    
 ### [1.1 Install Python using `Python Installer`](https://www.python.org/)
-    - Download and Install the latest version of Python as per your system's OS:
-       - [Windows](https://www.python.org/downloads/windows/)
-       - [Linux](https://www.python.org/downloads/source/)
-       - [MacOS](https://www.python.org/downloads/macos/)
-    - To verify the python installation, go to start menu >> Command prompt >> and run command `python --version` and see if returns current installed version of python.
+   - Download and Install the latest version of Python as per your system's OS:
+     - [Windows](https://www.python.org/downloads/windows/)
+     - [Linux](https://www.python.org/downloads/source/)
+     - [MacOS](https://www.python.org/downloads/macos/)
+   - To verify the python installation, go to start menu >> Command prompt >> and run command `python --version` and see if returns current installed version of python.
 
 ### [1.2 Install Python using `Anaconda distribution`](https://www.anaconda.com/)
     - The Anaconda distribution comes with Python interpreter, Jupyter notebook and many Python libraries.
