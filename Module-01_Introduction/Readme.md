@@ -6,7 +6,8 @@
    - `Guido van Rossum` was the lead developer in the Python development project
    conceived in the late 1980s. 
    - Python was first released to the public in 1991. 
-   - Python's coding philosophy is based on providing an advanced developer and easier code readability. 
+   - Python's coding philosophy is based on providing an advanced developer and easier code readability.
+   - Python is case sensitive, which means that any functions, variables, statements etc., must be written in correct case.
 
 ## Why Python?
    - Python is easy to learn

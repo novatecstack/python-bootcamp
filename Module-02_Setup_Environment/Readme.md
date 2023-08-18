@@ -24,9 +24,12 @@ To get started, we need below applications:
      - [Linux](https://www.python.org/downloads/source/)
      - [MacOS](https://www.python.org/downloads/macos/)
    - To verify the python installation, go to start menu >> Command prompt >> and run command `python --version` and see if returns current installed version of python.
+   - When you install Python, there are some other programs also which gets installed namely:
+     - Python Shell
+     - IDLE (Integrated Development and Learning Environment)
 
 ### [1.2 Install Python using `Anaconda distribution`](https://www.anaconda.com/)
-    - The Anaconda distribution comes with Python interpreter, Jupyter notebook and many Python libraries.
+  - The Anaconda distribution comes with Python interpreter, Jupyter notebook and many Python libraries.
      
 ## 2. Install IDE (Integrated Development Environment)
    - You may install any of the below IDE (editors) for developing python apps:
