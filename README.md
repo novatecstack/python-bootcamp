@@ -47,7 +47,6 @@ Schedule of Python programming workshop
    - Exploring **Ploty** and **Cufflinks** library
    - Exploring Pandas built-in Visualization capabilities
 
-## Challenge
-
-
-## [Python Frequently Asked Questions](https://docs.python.org/3/faq/)
+## References
+   - [Python Module Index](https://docs.python.org/3/py-modindex.html)
+   - [Python Frequently Asked Questions](https://docs.python.org/3/faq/)

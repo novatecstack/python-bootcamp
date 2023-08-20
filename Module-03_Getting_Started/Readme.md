@@ -33,3 +33,9 @@ In this module, we will explore some of the basic concepts of Python:
      - Sets
      - Tuples
      - Dictionaries
+
+## What is an Object in Python?
+   - As we now know that Python is an object-oriented programming language, everything is in Python treated as an object, including variable, function, list, tuple, dictionary, etc.
+   - Every object belongs to its class.
+   - **Example**: An *integer variable* belongs to *integer class*.
+
