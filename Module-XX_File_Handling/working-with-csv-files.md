@@ -7,14 +7,14 @@ In this module, you will learn how you can perform below actions on a text file 
   - Write to a text file
   - Create a new text file
 
-## [Import `.csv module`](https://docs.python.org/3/library/csv.html)
+## [Import the `.csv module`](https://docs.python.org/3/library/csv.html)
    
    ```
    import csv
 
    ```
 
-## [Open a `.csv file` using Python](https://docs.python.org/3/library/functions.html?highlight=built%20functions#open)
+## [Open a `.csv file`](https://docs.python.org/3/library/functions.html?highlight=built%20functions#open)
    
    ```
    import csv
@@ -24,7 +24,7 @@ In this module, you will learn how you can perform below actions on a text file 
 
    ```
 
-## [Read a `.csv file` using Python]()
+## [Read a `.csv file`]()
    
    ```
    # Import the csv module
@@ -42,7 +42,7 @@ In this module, you will learn how you can perform below actions on a text file 
    
    ```
 
-## [Close a `.csv file` using Python]()
+## [Close a `.csv file`]()
 
    ```
    # Import the csv module
@@ -55,7 +55,7 @@ In this module, you will learn how you can perform below actions on a text file 
    fileObj.close()
    
    ```
-## [Write to the .csv file]()
+## [Write to a .csv file]()
    
    ```
    # Import the csv module
@@ -77,3 +77,5 @@ In this module, you will learn how you can perform below actions on a text file 
    file.close()
 
    ```
+
+## [Read the subset of records (csv file) based on filter criteria]()
