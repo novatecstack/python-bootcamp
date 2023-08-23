@@ -69,8 +69,7 @@
    - You can define help() for custom classes and functions as well.
 
 ## Python Module Alias
-   - 
-
+   
    ```
    # Syntax
    import <module_name> as <alias>

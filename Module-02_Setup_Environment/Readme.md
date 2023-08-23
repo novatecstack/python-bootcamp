@@ -33,9 +33,11 @@ To get started, we need below applications:
      
 ## 2. Install IDE (Integrated Development Environment)
    - You may install any of the below IDE (editors) for developing python apps:
-     - [Pycharm](https://www.jetbrains.com/pycharm/)
+     - [PyCharm](https://www.jetbrains.com/pycharm/)
      - [Eclipse](https://www.eclipse.org/eclipseide/)
      - [Spyder](https://www.spyder-ide.org/)
      - [Atom](https://atom.en.uptodown.com/windows)
      - [Visual Studio Code](https://code.visualstudio.com/)   
-
+   - Once you're done with the IDE (PyCharm) installation, you need to configure two things:
+     - Base Interpreter (Python 3.x in our case)
+     - Enable Reformat code/file settings

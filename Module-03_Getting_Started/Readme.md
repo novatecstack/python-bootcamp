@@ -39,3 +39,13 @@ In this module, we will explore some of the basic concepts of Python:
    - Every object belongs to its class.
    - **Example**: An *integer variable* belongs to *integer class*.
 
+
+## [Python built-in functions](https://docs.python.org/3/library/functions.html)
+The Python has many built-in functions which are always available to you and you can use on the fly anywhere in your logic without explicitly importing any packages.
+
+### Print a message or variable value on the standard output
+[print()](https://docs.python.org/3/library/functions.html?highlight=built%20functions#print)
+
+
+### Getting the input from the user
+[input()](https://docs.python.org/3/library/functions.html?highlight=built%20functions#input)
