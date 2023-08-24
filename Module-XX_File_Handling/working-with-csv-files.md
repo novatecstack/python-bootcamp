@@ -30,15 +30,16 @@ In this module, you will learn how you can perform below actions on a text file 
    # Import the csv module
    import csv
 
-   # Open a .csv file in read-only mode
-   fileObj = open("samplefile.csv","r")
+   # Open a csv file
+   file_obj = open("samplecsvfile.csv","r")
+   print(file_obj)
 
+   # Read the csv file
+   file_rdr = csv.reader(file_obj,delimiter=",")
 
-   # Reading a .csv file
-   file_reader = csv.reader(fileObj, delimeter=",")
-
-   for row in file_reader:
-       print(row)
+   # Display the file contents of opened csv file
+   for row in file_rdr:
+      print(row)
    
    ```
 
@@ -79,3 +80,7 @@ In this module, you will learn how you can perform below actions on a text file 
    ```
 
 ## [Read the subset of records (csv file) based on filter criteria]()
+   
+   ```
+   
+   ```
