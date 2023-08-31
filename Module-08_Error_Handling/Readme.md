@@ -1,7 +1,8 @@
-# Understand how to hadle errors in Python
+# Understand how to handle errors in Python
 
 In this module, we will discuss how to handle exceptions in Python using `try`, `except`, and `finally` statements with the help of examples.   
-  - In python, there could be basically two types of errors:
+
+In python, there could be basically two types of errors:
     1) Syntax Errors
     2) Exception Errors
 
