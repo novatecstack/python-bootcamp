@@ -1,4 +1,4 @@
-# Getting started with the Python
+# Getting started with the `Python`
 
 In this module, we will explore some of the basic concepts of Python:
   - Introduction to Python IDLE and Python Shell
@@ -11,20 +11,15 @@ In this module, we will explore some of the basic concepts of Python:
   - Exploring Python variable data types
 
 ## 1. Introduction to `Python IDLE` and `Python Shell`
-   -
 
 ## 2. Working with `print()` function
-   - 
 
 ## 3. Understanding `Statements`
-   - 
-
+   
 ## 4. Python Comments
-   -
 
 ## 5. Exploring `Python Variables`
-   - 
-
+  
 ## 6. Exploring `Python Data Types`
    - There are various data types avaiable in python:
      - Strings

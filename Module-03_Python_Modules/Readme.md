@@ -1,6 +1,5 @@
 # Understanding Python Modules
 
-
 ## Python Module Types
    1) Built-in Modules (e.g. math, base64, csv, datetime, os, etc.)
    2) User defined Modules
