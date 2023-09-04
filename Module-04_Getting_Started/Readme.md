@@ -39,14 +39,9 @@ In this module, we will explore some of the basic concepts of Python:
       print("Hello world!")  # This is a comment
       ```
    - For multiline comments, you could insert `#` character for each line or triple quotes.
-
+   
 ## 5. Exploring `Python Variables`
-   - Python Variable is kind of container that store values which can then be referred anywhere in the program.
-   - In Python, you need not declare a variable.
-   - A variable is created the moment you first assign a value to it. `Example: x = 10`
-   - Variables are case sensitive i.e. x = 10 is not equals X = 10 | here 'x' and 'X' are two distict variables.
-   - Python uses PEP8 naming convention.
-
+  
 ## 6. Exploring `Python Data Types`
    - There are various data types avaiable in python:
      - Strings
