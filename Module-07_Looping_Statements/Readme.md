@@ -11,7 +11,7 @@
    # Example
    
    counter = 1
-   while (counter > 5):
+   while (counter < 5):
      print('Some logic here')
      counter = counter + 1
    ```
