@@ -1,6 +1,6 @@
 # Understand how to handle errors in Python
 
-In this module, we will discuss how to handle exceptions in Python using `try`, `except`, and `finally` statements with the help of examples.   
+In this module, we will learn how to handle exceptions in Python using `try`, `except`, and `finally` statements with the help of examples.   
 
 In python, there could be basically two types of errors:
     1) Syntax Errors
@@ -31,5 +31,48 @@ In python, there could be basically two types of errors:
 ### 2. Exception
 
 ## `try` and `except` statements for catching exceptions
+   ```
+   n = int(input('Enter numerator'))
+   d = int(input('Enter denominator'))
+
+   try:
+      result = n/d
+      print(result)
+   except ZeroDivisionError:
+      print('Divide by zero error')
+
+   print('continue to execute rest of the logic...')
+
+   ```
+
+## `try-except-else` statements for catching exceptions
+   ```
+   n = int(input('Enter numerator'))
+   d = int(input('Enter denominator'))
+   
+   try:
+      result = n/d
+   
+   except ZeroDivisionError:
+      # write the code we want to execute when exception occurs
+      print('Divide by zero error')
+   else:
+      print(result)
+   ```
+
+## `finally` block
+   ```
+   n = int(input('Enter numerator'))
+   d = int(input('Enter denominator'))
+   
+   try:
+      result = n/d
+      print(result)
+   except ZeroDivisionError:
+      # write the code we want to execute when exception occurs
+      print('Divide by zero error')
+   finally:
+      print('This code will be executed no matter what')
+   ```
 
 ## Catching specific exceptions

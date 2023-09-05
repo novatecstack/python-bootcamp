@@ -1,14 +1,16 @@
 # Python's Module, Package and Library
 
 ## 1. What is `Module` in Python?
-   - The `module` is a simple Python file that contains collections of functions and global variables
+   - The `module` is a basically a bunch of related code saved in a Python file that contains collections of `functions`,`classes` and  `variables`.
    - Modules are with `.py` extension file. 
-   - It is an executable file and to organize all the modules we have the concept called Package in Python. 
+   - It is an executable file and to organize all the modules, we have the concept called Package in Python. 
 
 ### Examples of Python Modules
    1) Datetime
-   2) Regex
-   3) Random
+   2) regex
+   3) random
+   4) html
+   5) re
 
 ## 2. What is `Package` in Python?
    - The `package` is a simple directory having collections of modules.
@@ -47,3 +49,13 @@
    df = pd.read_csv("customer_accounts.csv")
     
    ```
+
+## 4. What are Python Frameworks?
+   - Similar to libraries, Python frameworks are a collection of modules and packages that help programmers to fast track the development process. 
+   - However, frameworks are usually more complex than libraries. 
+   - Also, while libraries contain packages that perform specific operations, frameworks contain the basic flow and architecture of the application.
+
+### Some popular Python frameworks
+   - Django
+   - Flask
+   - Bottle
