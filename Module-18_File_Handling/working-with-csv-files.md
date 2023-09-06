@@ -13,7 +13,23 @@ In this module, you will learn how you can perform below actions on a text file 
    import csv
 
    ```
+## Syntax
+   
+   ```
+   # open a file
+   file_obj = open('file_name','mode',buffer)
 
+   # close a file
+   file_obj.close()
+   ```
+## File processing mode
+   - r: read 
+   - w: write
+   - a: append
+   - w+: read and write
+   - r+: read, write and append
+   - a+: append and read
+   - x: exclusive creation mode (create a new file and open it | if already exist, will throw error )
 ## [Open a `.csv file`](https://docs.python.org/3/library/functions.html?highlight=built%20functions#open)
    
    ```
